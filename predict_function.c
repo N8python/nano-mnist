@@ -1,4 +1,3 @@
-
 int relu(int x) {
     return x & ~(x >> 31);
 }
